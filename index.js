@@ -4,4 +4,6 @@
 // require('./FirstClassPractice');
 // require('./FamousClass');
 
-require('./CityClass');
+// require('./CityClass');
+
+require('./StudentsClass');
